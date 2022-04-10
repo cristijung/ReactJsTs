@@ -5,6 +5,7 @@ import Lista from './components/Lista';
 function App() {
   return (
     <div className="App">
+      <h1> ReactJs com Ts</h1>
       <Formulario />
       <Lista />
     </div>
